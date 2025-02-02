@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.arrow:hover{
+    transform: scale(1.5);
+    
+}
